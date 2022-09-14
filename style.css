@@ -1,0 +1,20 @@
+.card{
+	border: 0px;
+	font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+
+.card-body{
+
+}
+.facebook{
+	background-color: #4267B2;
+	
+}
+.twitter{
+	background-color:#00acee;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
